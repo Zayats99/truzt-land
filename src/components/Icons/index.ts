@@ -1,0 +1,1 @@
+export { IconSprite } from './Icons';

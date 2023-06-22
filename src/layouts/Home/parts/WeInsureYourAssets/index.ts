@@ -1,0 +1,1 @@
+export { WeInsureYourAssets } from './WeInsureYourAssets';

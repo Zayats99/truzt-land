@@ -1,0 +1,1 @@
+export { SliderSwiper } from './Swiper';

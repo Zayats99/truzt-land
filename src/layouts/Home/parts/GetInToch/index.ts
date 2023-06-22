@@ -1,0 +1,1 @@
+export { GetInToch } from './GetInToch';

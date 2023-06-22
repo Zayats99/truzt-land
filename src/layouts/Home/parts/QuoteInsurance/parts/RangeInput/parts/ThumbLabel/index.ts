@@ -1,0 +1,1 @@
+export { ThumbLabel } from './ThumbLabel';
